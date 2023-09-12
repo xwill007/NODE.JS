@@ -22,3 +22,9 @@ https://platzi.com/clases/2485-backend-nodejs/41744-configuracion-del-entorno-de
 
 6. instalar dependecias de desarrollo
    npm i nodemon eslint eslint-config-prettier eslint-plugin-prettier prettier -D
+
+7. instalar express y llamarlo en index
+   npm i express
+   const express = require('express');
+
+8.
