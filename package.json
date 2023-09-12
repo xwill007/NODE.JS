@@ -1,0 +1,29 @@
+{
+  "name": "NODE.JS",
+  "version": "1.0.0",
+  "description": "practicas de backend con node\r https://platzi.com/clases/2485-backend-nodejs/41744-configuracion-del-entorno-de-desarrollo/",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwill007/NODE.JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xwill007/NODE.JS/issues"
+  },
+  "homepage": "https://github.com/xwill007/NODE.JS#readme",
+  "devDependencies": {
+    "eslint": "^8.49.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.0",
+    "nodemon": "^3.0.1",
+    "prettier": "^3.0.3"
+  }
+}
