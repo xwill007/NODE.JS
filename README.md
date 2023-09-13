@@ -27,4 +27,5 @@ https://platzi.com/clases/2485-backend-nodejs/41744-configuracion-del-entorno-de
    npm i express
    const express = require('express');
 
-8.
+8. instalamos libreria para datos fake
+   npm i @faker-js/faker
